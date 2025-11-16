@@ -18,3 +18,6 @@ MinesweeperAI/
 ├── plot_results.py            # Experiment + plotting script
 └── README.md
 
+
+# MinesweeperAI
+b9ed406245f06cf9fc407419ee0537346942bc68
